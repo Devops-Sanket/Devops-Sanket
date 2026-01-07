@@ -1,20 +1,52 @@
 ## Hi Am Sanket
 
-<h1 align="center">Hi 👋, I'm Sanket</h1>
-<h3 align="center">I’m a DevOps Engineer passionate about cloud computing, automation, and building scalable, reliable systems. I enjoy working with modern DevOps tools and continuously learning new technologies. Always open to collaboration and impactful projects.</h3>
+I’m a DevOps Engineer passionate about cloud computing, automation, and building scalable, reliable systems. I enjoy working with modern DevOps tools and continuously learning new technologies.
+Always open to collaboration and impactful projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devops-sanket&label=Profile%20views&color=0e75b6&style=flat" alt="devops-sanket" /> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanket-patil-b912b6286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanket-patil-b912b6286/" height="30" width="40" /></a>
-</p>
+## 🌐 Connect with Me:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketx1010/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devops-sanket&show_icons=true&locale=en&layout=compact" alt="devops-sanket" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devops-sanket&show_icons=true&locale=en" alt="devops-sanket" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devops-sanket&" alt="devops-sanket" /></p>
+---
+
+
+![Abhipray's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipraydhoble&show_icons=true&theme=radical)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🛠️ Tools & Technologies:
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200"></img></p>
+
+
+| Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
+|----------|----------|----------|----------|------|------|------|-------|------|------|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="55" height="55"/>| <img src="https://github.com/user-attachments/assets/a885e80a-964f-4e75-a4a6-27a063667ec7" alt="AWS" title="AWS" width="55" height="55" /> | 
+
+
+
+
+
+---
+
+![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
+
+---
+
+## 🌱 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=abhipraydhoble&color=green&style=flat-square)
+
+---
